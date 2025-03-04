@@ -1,5 +1,5 @@
 # Load student admissions dataset
-university_data = pd.read_csv('/content/university_student_dashboard_data.csv')
+university_data = pd.read_csv('university_student_dashboard_data.csv')
 
 # Streamlit Dashboard Code (to be deployed on Streamlit Cloud)
 def university_dashboard():
